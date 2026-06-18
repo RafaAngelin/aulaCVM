@@ -7,9 +7,10 @@
 </head>
 <body>
     <h1>Recomendações de musicas da turma de Criação Validação e Manutenção de Software</h1>
-    
-    <a href="bruno.html">Sugestão de musica de: Bruno</a>
 
-    <a href="Isaac.html">Sugestão de musica de: Isaac </a>
+    <h2>Recomendação de música de Jheniffer: The Cure</h2>
+    <h2>Artista: Olivia Rodrigo</h2>
+
+    <p>Você pode escutar The Cure <a href="https://youtu.be/B402rKl4bUg?si=4-Vf2mWi_KGfGKGT" rel="external">música no YouTube</a></p>
 </body>
 </html>
